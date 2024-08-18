@@ -17,16 +17,16 @@ A Password Strength Checker is an essential tool designed to evaluate the robust
 
 ------------------------ Importance of Strong Passwords ----------------------
 
-- Security: Strong passwords are crucial for protecting personal and sensitive information from cyber threats¹.
-- Prevent Data Breaches: Weak passwords are a significant security risk and can lead to data breaches².
+- Security: Strong passwords are crucial for protecting personal and sensitive information from cyber threats.
+- Prevent Data Breaches: Weak passwords are a significant security risk and can lead to data breaches.
 - Compliance: Ensures adherence to security policies and regulations.
-- Peace of Mind: Reduces the risk of unauthorized access and potential financial losses⁴.
+- Peace of Mind: Reduces the risk of unauthorized access and potential financial losses.
 
 ----------------------How to Create a Strong Password---------------------------
 
 1. Use a Mix of Characters: Combine upper and lowercase letters, numbers, and symbols.
 2. Avoid Common Words: Steer clear of easily guessable information like names or birthdays.
-3. Length Matters: Aim for at least 12 characters to enhance security².
+3. Length Matters: Aim for at least 12 characters to enhance security.
 4. Unique for Each Account: Never reuse passwords across different accounts.
 
 ------------------ Getting Started------------------
